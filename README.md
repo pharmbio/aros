@@ -1,2 +1,2 @@
-# aros
-Open Automated Robotic System for Biological Laboratories
+# AROS - Open Automated Robotic System for Biological Laboratories
+
