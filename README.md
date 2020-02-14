@@ -25,3 +25,6 @@ https://github.com/pharmbio/robot_lab_prometheus_exporters
 Description<br>
 https://github.com/pharmbio/shaker-robot
 
+### Automation Experimental Planning + GUI
+Description<br>
+https://github.com/pharmbio/lab-design
