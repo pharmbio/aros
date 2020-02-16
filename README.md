@@ -34,6 +34,11 @@ Description
 <br>
 https://github.com/pharmbio/shaker-robot
 
+### Biotek washer and dispenser CLI
+A simple windows CLI that loads and executes programs and is called from our Lab Robots REST api
+<br>
+https://github.com/pharmbio/LHC_CallerCLI
+
 ### Automation Experimental Planning + GUI
 Description
 <br>
