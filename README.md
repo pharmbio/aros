@@ -10,7 +10,7 @@ A unified REST-api to all robots in the AROS system. The REST Api will wrap arou
 https://github.com/pharmbio/labrobots-restserver
 
 ### AROS DB
-A database in the center of the system, managing images, projects, experiment design, data, metadata, and much more...
+Database in the center of the system, managing images, projects, experiment design, data, metadata, and much more...
 <br>
 https://github.com/pharmbio/imagedb
 
