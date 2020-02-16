@@ -1,8 +1,7 @@
 # AROS - Open Automated Robotic System for Biological Laboratories
 
 
-
-## Repos
+## Repos:
 
 
 ### Lab Robots REST server and API
@@ -11,21 +10,31 @@ A unified REST-api to all robots in the AROS system. The REST Api will wrap arou
 https://github.com/pharmbio/labrobots-restserver
 
 ### AROS DB
-A database for projects, images, data, metadata, and much more...<br>
+A database in the center of the system, managing images, projects, experiment design, data, metadata, and much more...
+<br>
 https://github.com/pharmbio/imagedb
 
 ### Robot Lab Cameras
-Description<br>
+Streaming cameras setup for live monitoring of the system via Grafana dashboards
+<br>
 https://github.com/pharmbio/robot_lab_cameras
 
+### Robot Lab Grafana Dashboards
+Grafana dashboards for monitoring of the lab sensors and robots 
+<br>
+https://github.com/pharmbio/robot_lab_grafana_dashboards
+
 ### Robot Lab Prometheus Exporters
-Description<br>
+Prometheus exporters for lab sensors and robot status
+<br>
 https://github.com/pharmbio/robot_lab_prometheus_exporters
 
 ### DIY Automated Shaker Robot
-Description<br>
+Description
+<br>
 https://github.com/pharmbio/shaker-robot
 
 ### Automation Experimental Planning + GUI
-Description<br>
+Description
+<br>
 https://github.com/pharmbio/lab-design
