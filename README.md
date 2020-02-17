@@ -30,7 +30,7 @@ Prometheus exporters for lab sensors and robot status
 https://github.com/pharmbio/robot_lab_prometheus_exporters
 
 ### DIY Automated Shaker Robot
-Description
+Modifications to provide Arduino nano controlled Fisherbrand plate shaker.
 <br>
 https://github.com/pharmbio/shaker-robot
 
@@ -40,6 +40,6 @@ A simple windows CLI that loads and executes programs on the BioTek washer and d
 https://github.com/pharmbio/LHC_CallerCLI
 
 ### Automation Experimental Planning + GUI
-Description
+Experimental design software
 <br>
 https://github.com/pharmbio/lab-design
