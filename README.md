@@ -35,7 +35,7 @@ Modifications to provide Arduino nano controlled Fisherbrand plate shaker.
 https://github.com/pharmbio/shaker-robot
 
 ### BioTek washer and dispenser CLI
-A simple windows CLI that loads and executes programs on the BioTek washer and dispenser and is called from our Lab Robots REST api
+A windows CLI that loads and executes programs on the BioTek washer and dispenser and is called from our Lab Robots REST api
 <br>
 https://github.com/pharmbio/LHC_CallerCLI
 
