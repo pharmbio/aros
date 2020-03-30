@@ -34,6 +34,11 @@ Modifications to provide Arduino nano controlled Fisherbrand plate shaker.
 <br>
 https://github.com/pharmbio/shaker-robot
 
+### DIY Automated Incubator
+Modifications to provide automatic door opener on existing incubator
+<br>
+https://github.com/pharmbio/incubator-automation
+
 ### BioTek washer and dispenser CLI
 A windows CLI that loads and executes programs on the BioTek washer and dispenser and is called from our Lab Robots REST api
 <br>
