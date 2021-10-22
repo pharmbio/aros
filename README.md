@@ -1,5 +1,8 @@
 # AROS - Open Automated Robotic System for Biological Laboratories
 
+This is the landing page for a suite of open soruce components for lab automation. The initial system was developed to automate morphological profiling according to the [Cell Painting protocol](https://www.nature.com/articles/nprot.2016.105) (high-content imaging using multiple dyes) but the componets are general and can be used in other settings as well.
+
+Contact: Prof. Ola Spjuth. ola.spjuth@farmbio.uu.se. Research group website: https://pharmb.io
 
 ## Repos:
 
