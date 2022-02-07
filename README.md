@@ -6,8 +6,13 @@ Contact: Prof. Ola Spjuth. ola.spjuth@farmbio.uu.se. Research group website: htt
 
 ## Repos:
 
+### Cell painting using the UR robotarm
+Cell painting using the UR robot arm
+<br>
+https://github.com/pharmbio/robot-cellpainter
+
 ### Lab Robots http server
-A unified http-api to all robots in the AROS system. The http api wraps around various vendor-specific api:s for communication.
+A unified http api to all robots in the AROS system. The http api wraps around various vendor-specific api:s for communication.
 <br>
 https://github.com/pharmbio/robotlab-labrobots 
 
