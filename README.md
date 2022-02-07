@@ -6,11 +6,10 @@ Contact: Prof. Ola Spjuth. ola.spjuth@farmbio.uu.se. Research group website: htt
 
 ## Repos:
 
-
-### Lab Robots REST server and API
-A unified REST-api to all robots in the AROS system. The REST Api wraps around various existing or non-existing vendor-specific api:s for communication.
+### Lab Robots http server
+A unified http-api to all robots in the AROS system. The http api wraps around various vendor-specific api:s for communication.
 <br>
-https://github.com/pharmbio/labrobots-restserver
+https://github.com/pharmbio/robotlab-labrobots 
 
 ### AROS DB
 Database in the center of the system, managing images, projects, experiment design, data, metadata, and much more...
@@ -41,11 +40,6 @@ https://github.com/pharmbio/shaker-robot
 Modifications to provide automatic door opener on existing incubator
 <br>
 https://github.com/pharmbio/incubator-automation
-
-### BioTek washer and dispenser CLI
-A windows CLI that loads and executes programs on the BioTek washer and dispenser and is called from our Lab Robots REST api
-<br>
-https://github.com/pharmbio/LHC_CallerCLI
 
 ### Automation Experimental Planning + GUI
 Experimental design software
